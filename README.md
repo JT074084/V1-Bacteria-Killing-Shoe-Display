@@ -17,7 +17,7 @@ Anyway, thank you for watching the video! I hope you enjoyed it! I have some ide
 
 | Content | License | What This Means |
 |--------|---------|-----------------|
-| **Code** (`.ino`, `.cpp`, `debug_ui.py`) | **[MIT License](LICENSE)** | Free to use, modify, sell — just keep my copyright |
+| **Code** (`V1_Shoe_Display.ino`, `debug_ui.py`) | **[MIT License](LICENSE)** | Free to use, modify, sell — just keep my copyright |
 | **3D Models** (`.stl`) | **[CC BY-SA 4.0](LICENSE-3D.txt)** | Free to print, remix, sell — **must credit me** + share remixes under same license |
 | **PDF Docs** (`*.pdf`) | Same as **3D models** → **CC BY-SA 4.0** | Diagrams, photos, and text are part of the design |
 
