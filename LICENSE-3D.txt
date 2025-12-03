@@ -1,5 +1,9 @@
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
+Applies to:
+  • All .stl 3D model files
+  • All .pdf documentation (diagrams, photos, text)
+
 Original design by: JT074084
 Repository: https://github.com/JT074084/V1-Bacteria-Killing-Shoe-Display
 
